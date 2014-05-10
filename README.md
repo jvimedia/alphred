@@ -80,7 +80,7 @@ Alphred is a Distraction-free Alfred 2 posting Workflow, so you can just post yo
 # Changelog
 *Alphred 2.7-Alpha*
 + Stream 'adn'
-+ Mentions 'and'
++ Mentions 'adn'
 + Reply on Posts in stream / mention (TAB to get @username of the post
 creator)
 + Bug: When posting sometimes alphred truncates the post when posting
