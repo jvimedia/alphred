@@ -78,6 +78,19 @@ Alphred is a Distraction-free Alfred 2 posting Workflow, so you can just post yo
 ---
 
 # Changelog
+*Alphred 2.7-Alpha*
++ Stream 'adn'
++ Mentions 'and'
++ Reply on Posts in stream / mention (TAB to get @username of the post
+creator)
++ Bug: When posting sometimes alphred truncates the post when posting
+to fast or with special characters
++ Downloads avatars
+-> Not ideal
+-> Uses a lot of CPU
+-> Consider Caching the stream
+-> Using CURL external ‽ Not a great solution
+-> How to refresh an avatar?
 
 *Alphred 2.6*
 - Added share playing music function `adnplay`.
